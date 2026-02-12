@@ -1,0 +1,5 @@
+/* App-level styles (minimal — most styling uses Tailwind + index.css tokens) */
+
+.App {
+    width: 100%;
+}
